@@ -1,2 +1,2 @@
 # ZeroMargin
-Simple tool to clear bookmaker odds from overround
+Simple tool to clear sportsbook odds from overround
